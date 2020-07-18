@@ -24,8 +24,10 @@ body {
     line-height: 1.5;
     color: #212529;
     text-align: left;
-    background-color: #000;
-    background: #000 url(https://i.postimg.cc/vZb05V93/background.jpg) center top no-repeat
+    background-size:cover;
+    background-position:center;
+    background-attachment: fixed;
+    background: url(https://i.postimg.cc/vZb05V93/background.jpg);
 }
 
 .bg-black {
