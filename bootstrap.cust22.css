@@ -24,14 +24,11 @@ body {
     line-height: 1.5;
     color: #212529;
     text-align: left;
-    background-size:cover;
-    background-position:center;
-    background-attachment: fixed;
     background: url(https://i.postimg.cc/vZb05V93/background.jpg);
 }
 
 .bg-black {
-    background-color: #000
+    background-color: #990513
 }
 
 .box-shadow {
