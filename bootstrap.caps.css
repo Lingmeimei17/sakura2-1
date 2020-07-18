@@ -2,18 +2,18 @@
     --blue:#007bff;--indigo:#6610f2;--purple:#6f42c1;--pink:#e83e8c;--red:#dc3545;--orange:#fd7e14;--yellow:#ffc107;--green:#28a745;--teal:#20c997;--cyan:#17a2b8;--white:#fff;--gray:#6c757d;--gray-dark:#343a40;--primary:#007bff;--secondary:#6c757d;--success:#28a745;--info:#17a2b8;--warning:#ffc107;--danger:#dc3545;--light:#f8f9fa;--dark:#343a40;--breakpoint-xs:0;--breakpoint-sm:576px;--breakpoint-md:768px;--breakpoint-lg:992px;--breakpoint-xl:1200px;--font-family-sans-serif:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";--font-family-monospace:SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}
 
 *,::after,::before {
-    box-sizing: border-box
+    box-sizing: border-box;
 }
 
 html {
     font-family: sans-serif;
     line-height: 1.15;
     -webkit-text-size-adjust: 100%;
-    -webkit-tap-highlight-color: transparent
+    -webkit-tap-highlight-color: transparent;
 }
 
 article,aside,figcaption,figure,footer,header,hgroup,main,nav,section {
-    display: block
+    display: block;
 }
 
 body {
@@ -25,15 +25,15 @@ body {
     color: #212529;
     text-align: left;
     background-color: #990513;
-    background: #990513 url(https://i.postimg.cc/vZb05V93/background.jpg) center top no-repeat
+    background: #990513 url(https://i.postimg.cc/vZb05V93/background.jpg) center top no-repeat;
 }
 
 .bg-black {
-    background-color: #990513
+    background-color: #990513;
 }
 
 .box-shadow {
-    box-shadow: 0 0 10px #cc937e
+    box-shadow: 0 0 10px #cc937e;
 }
 
 .bg-black-70 {
@@ -41,12 +41,12 @@ body {
 }
 
 .text-cus {
-    color: #fbff05
+    color: #fbff05;
 }
 
 @media (min-width: 990px) {
     .mt-cus {
-        margin-top:2rem
+        margin-top:2rem;
     }
 
     .border-right-cus {
@@ -67,7 +67,7 @@ body {
 #contact {
     background: #333;
     background: -webkit-linear-gradient(to bottom,#dd1818,#333);
-    background: linear-gradient(to bottom,#020202,#333)
+    background: linear-gradient(to bottom,#020202,#333);
 }
 
 .bg-1 {
